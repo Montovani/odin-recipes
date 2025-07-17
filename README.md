@@ -26,6 +26,7 @@ It’s a beginner-friendly project focused on understanding how to structure a w
 ## 🛠️ Technologies Used
 
 - HTML5
+- CSS
 
 ## 📁 Project Structure
 
